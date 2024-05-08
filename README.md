@@ -1,5 +1,5 @@
 # DocTracker
-Build Version Control add in for Microsoft Word
+Build Version Control add in for Microsoft Word using C#
 
 ##
 Description:
