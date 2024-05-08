@@ -1,5 +1,5 @@
 # DocTracker
-Word Document Version Control Plugin
+Build Version Control add in for Microsoft Word
 
 ##
 Description:
